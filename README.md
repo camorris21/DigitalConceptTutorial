@@ -15,15 +15,18 @@ The purpose of this tutorial is to give a brief explanation of what exactly HTML
 
 HTML stands for Hyper Text Markup Language.  It is a markup language for describing web pages. There are 5 required tags when creating a HTML document. These tags include:
 
-1. <!DOCTYPE html> 
-2. <html>
-3.    <head>
-4.         <title> </title>
-      </head>
-5.    <body>
-      </body>
+1          (1)<!DOCTYPE html> 
+2.         (2)<html> 
+3.         (3)     <head> 
+4.         (4)          <title> </title>
+                  </head>
+5.         (5)    <body>
+     
+                  </body>
  
- </html> 
+ 
+            </html> 
+
     
    
 
