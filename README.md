@@ -7,11 +7,27 @@ The purpose of this tutorial is to give a brief explanation of what exactly HTML
 * What is CSS?
 * What is Brackets?
 * How do HTML and CSS go together?
-* Downloading Brackets.
+* Downloading Brackets. 
 * How to create a webpage.
 * Examples of MY work!
 
-# What is HTMl?
+# What is HTML?
+
+HTML stands for Hyper Text Markup Language.  It is a markup language for describing web pages. There are 5 required tags when creating a HTML document. These tags include:
+
+1. <!DOCTYPE html> 
+2. <html>
+3.    <head>
+4.         <title> </title>
+      </head>
+5.    <body>
+      </body>
+ 
+ </html> 
+    
+   
+
+
 
 # What is CSS?
 
